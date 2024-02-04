@@ -1,4 +1,10 @@
-# Team Qnonymous (@azzamasim, @TCD28, @Hasnain-Koser)
+# Team Qnonymous 
+(@azzamasim, @TCD28, @Hasnain-Koser)
+We took part in the IonQ Remote challenge for iQuHACK 2024. This repo documents our work and results.
+
+Final position: 5th place
+![image](https://github.com/azzamasim/2024_IonQ_Remote/assets/84571967/849b2b8c-621c-4422-a812-670a63cb878c)
+![image](https://github.com/azzamasim/2024_IonQ_Remote/assets/84571967/fe600107-a555-4281-92cd-01a51e956710)
 
 
 
